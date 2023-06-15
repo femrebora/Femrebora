@@ -5,8 +5,10 @@ Bioinformatician | Developer | Linux Lover
 
 ### Languages and Tools:
 <img align="left" alt="JAVA" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
 <br />
-#
+---
+
 
 ### About Me
 
