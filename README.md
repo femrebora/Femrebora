@@ -68,3 +68,5 @@ Function as a Potential Therapeutic Target**
 
 - **Email**: Femrebora@hotmail.com
 - **LinkedIn**: [www.linkedin.com/in/femre-bora]
+#
+![Femrebora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Femrebora&theme=dark&show_icons=chartreuse-dark)
