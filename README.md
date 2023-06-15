@@ -30,7 +30,7 @@ I am passionate about recent development in bioinformatics, I want to improve my
 - B.Sc. in Genetics and Bioinformatics, Kadir Has University, [2023]
 - M.Sc. in Molecular, Cellular Biology and B.Sc, Biology, Universidad de Coruna (Erasmus Program) [2021-2022]
 #
-![Femrebora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Femrebora&theme=chartreuse-dark_icons=chartreuse-dark)
+![Femrebora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Femrebora&show_icons=tru&theme=chartreuse-dark)
 #
 ### Computational Skills
 
