@@ -30,7 +30,8 @@ I am passionate about recent development in bioinformatics, I want to improve my
 - B.Sc. in Genetics and Bioinformatics, Kadir Has University, [2023]
 - M.Sc. in Molecular, Cellular Biology and B.Sc, Biology, Universidad de Coruna (Erasmus Program) [2021-2022]
 #
-  
+![Femrebora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Femrebora&theme=chartreuse-dark_icons=chartreuse-dark)
+#
 ### Computational Skills
 
 - **Bioinformatics**: Experienced in analyzing and interpreting genomic data and functional genomics.
@@ -63,8 +64,7 @@ Function as a Potential Therapeutic Target**
 
 - **Computational Analysis of Viral Mutations**
 #
-![Femrebora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Femrebora&theme=chartreuse-dark_icons=chartreuse-dark)
-#
+
 ### Contact
 
 - **Email**: Femrebora@hotmail.com
