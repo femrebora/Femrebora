@@ -8,7 +8,7 @@ Bioinformatician | Developer | Linux Lover
 <img align="left" alt="JAVA" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
 <img align="left" alt="JAVA" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
 <img align="left" alt="JAVA" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="JAVA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="JAVA" width="50px" i class="devicon-github-original colored"></i>>
 
 <br />
 
