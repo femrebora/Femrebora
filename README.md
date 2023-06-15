@@ -39,8 +39,6 @@ I am passionate about recent development in bioinformatics, I want to improve my
 
 - **Linux**: Experienced in command-line proficiency and package management.
 
-- **Programming Languages**: Experienced in Python, R, and C#.
-
 - **Software Development**: Experienced in software development methodologies and with designing and implementing bioinformatics pipelines.
 #
 
