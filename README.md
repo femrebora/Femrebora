@@ -63,7 +63,7 @@ Function as a Potential Therapeutic Target**
 
 - **Computational Analysis of Viral Mutations**
 #
-![Femrebora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Femrebora&theme=dark&show_icons=chartreuse-dark)
+![Femrebora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Femrebora&theme=chartreuse-dark_icons=chartreuse-dark)
 #
 ### Contact
 
