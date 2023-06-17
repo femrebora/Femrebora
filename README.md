@@ -37,7 +37,10 @@ I am passionate about recent development in bioinformatics, I want to improve my
 #
 
 ### Contact
+<div id="badges">
+  <a href="https://www.linkedin.com/in/femre-bora">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
 
-- **Email**: Femrebora@hotmail.com
-- **LinkedIn**: [www.linkedin.com/in/femre-bora]
 
