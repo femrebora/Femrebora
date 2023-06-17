@@ -39,7 +39,7 @@ I am passionate about recent development in bioinformatics, I want to improve my
 ### Contact
 <div id="badges">
   <a href="https://www.linkedin.com/in/femre-bora">
-    <img align="left" alt="JAVA" width="50px src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img align="left" alt="JAVA" width="50px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
 
