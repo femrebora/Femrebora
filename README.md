@@ -25,6 +25,8 @@ Bioinformatician | Developer | Linux Lover
 I am passionate about recent development in bioinformatics, I want to improve my expertise in developing, interpreting, and analyzing biological data in the matter of bioinformatics. My expertise lies at the intersection of computational biology, data analysis, and software development. I enjoy discovering new applications and databases of bioinformatics and in computer-aided drug discovery and genomic studies which merges my passion.
 
 #
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=femrebora)](https://github.com/anuraghazra/github-readme-stats)
+#
 ### Education
 
 - B.Sc. in Genetics and Bioinformatics, Kadir Has University, [2023]
