@@ -41,9 +41,6 @@ I am passionate about recent development in bioinformatics, I want to improve my
     <img align="left" alt="JAVA" width="120px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
- # Sanke animation
 
- - uses: Platane/snk@master
-        id: snake-gif
 
 
