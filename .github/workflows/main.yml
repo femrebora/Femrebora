@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Furkan Emre Bora
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
