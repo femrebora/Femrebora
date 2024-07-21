@@ -3,7 +3,7 @@
 Bioinformatician | Developer 
 #
 
-### Languages and Tools:
+### Languages and Tools
 <img align="left" alt="JAVA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JAVA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="JAVA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
@@ -22,7 +22,7 @@ Bioinformatician | Developer
 
 ### About Me
 
-I am passionate about recent development in bioinformatics, I want to improve my expertise in developing, interpreting, and analyzing biological data in the matter of bioinformatics. My expertise lies at the intersection of computational biology, data analysis, and software development.
+I am passionate about recent developments in bioinformatics, I want to improve my expertise in developing, interpreting, and analyzing biological data in the matter of bioinformatics. My expertise lies at the intersection of computational biology, data analysis, and software development.
 
 #
 ## Education
