@@ -38,9 +38,6 @@ I am passionate about recent development in bioinformatics, I want to improve my
 #
 
 
-[![](https://raw.githubusercontent.com/Femrebora/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/Femrebora/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Femrebora/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/Femrebora/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Femrebora/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/Femrebora/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Femrebora/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/Femrebora/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Femrebora/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/Femrebora/github-profile-summary-cards)
 
 
 #
