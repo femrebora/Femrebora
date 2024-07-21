@@ -33,7 +33,7 @@ I am passionate about recent development in bioinformatics, I want to improve my
 - B.Sc. in Genetics and Bioinformatics, Kadir Has University, [2019-2023]
 
 #
-![Femrebora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Femrebora&show_icons=tru&theme=chartreuse-dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=gotham)
 
 #
 
