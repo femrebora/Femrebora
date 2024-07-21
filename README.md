@@ -31,11 +31,10 @@ I am passionate about recent development in bioinformatics, I want to improve my
 - B.Sc. in Genetics and Bioinformatics, Kadir Has University, [2019-2023]
 
 #
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=gotham) && ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Femrebora&theme=gotham)
 
 #
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Femrebora&theme=gotham)
 
 
 #
