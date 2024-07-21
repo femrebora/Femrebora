@@ -1,6 +1,6 @@
 ## Furkan Emre Bora
 
-Bioinformatician | Developer | Linux Lover
+Bioinformatician | Developer 
 #
 
 ### Languages and Tools:
