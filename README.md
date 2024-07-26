@@ -1,6 +1,6 @@
 ## Furkan Emre Bora
 
-Bioinformatician | Developer 
+Bioinformatics |  Developer
 #
 
 ### Languages and Tools
