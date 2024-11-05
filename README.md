@@ -27,7 +27,7 @@ I am passionate about recent developments in bioinformatics, I want to improve m
 #
 ## Education
 
-- M.Sc in Chemical Engineering, Yildiz Techincal University, [2024-]
+- M.Sc in Biotechnology, Bezmialem Vakıf University, [2024-2026]
 - B.Sc. in Genetics and Bioinformatics, Kadir Has University, [2019-2023]
 
 #
