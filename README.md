@@ -22,8 +22,8 @@ I'm passionate about recent developments in bioinformatics and improving my skil
 
 ## 🎓 Education
 
-- 🎓 **M.Sc. in Biotechnology**, Bezmialem Vakıf University (2024–2026)  
-- 🎓 **B.Sc. in Genetics and Bioinformatics**, Kadir Has University (2019–2023)
+- **M.Sc. in Biotechnology**, Bezmialem Vakıf University (2024–2026)  
+- **B.Sc. in Genetics and Bioinformatics**, Kadir Has University (2019–2023)
 
 
 
@@ -41,10 +41,6 @@ I'm passionate about recent developments in bioinformatics and improving my skil
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Femrebora/Femrebora/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake animation" />
-</p>
 
 
 
