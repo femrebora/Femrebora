@@ -43,10 +43,8 @@ I'm passionate about recent developments in bioinformatics and improving my skil
 </picture>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Femrebora/Femrebora/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation" />
+  <img src="https://raw.githubusercontent.com/Femrebora/Femrebora/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake animation" />
 </p>
-
-
 
 
 
