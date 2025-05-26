@@ -27,7 +27,7 @@ I'm passionate about recent developments in bioinformatics and improving my skil
 - 🎓 **M.Sc. in Biotechnology**, Bezmialem Vakıf University (2024–2026)  
 - 🎓 **B.Sc. in Genetics and Bioinformatics**, Kadir Has University (2019–2023)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -38,7 +38,7 @@ I'm passionate about recent developments in bioinformatics and improving my skil
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Femrebora&theme=gotham" />
 </p>
 
----
+
 
 ## 🧠 My Goals
 
@@ -47,6 +47,6 @@ I'm passionate about recent developments in bioinformatics and improving my skil
 - 💡 I love combining biology with software  
 - 🎯 2025 Goals: publish a bioinformatics tool, contribute to open-source  
 
----
+
 
 
