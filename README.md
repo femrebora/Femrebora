@@ -7,7 +7,6 @@
   />
 </h1>
 
-
 ---
 
 **Bioinformatics | Developer**
@@ -51,18 +50,13 @@ I'm passionate about recent developments in bioinformatics and improving my skil
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="http://github-profile-summar
----
-
 ## 🧠 My Goals
 
-- 🔬 I’m currently working on CRISPR-base screening  
-- 🌱 I’m learning machine learning   
+- 🔬 I’m currently working on CRISPR-based screening  
+- 🌱 I’m learning machine learning  
 - 💡 I love combining biology with software  
-- 🎯 2025 Goals: publish a bioinformatics tools, contribute to open-source  
+- 🎯 2025 Goals: publish a bioinformatics tool, contribute to open-source  
 
 ---
+
 
