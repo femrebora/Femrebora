@@ -1,7 +1,10 @@
 <!-- README.md -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=6CE0F7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Furkan+Emre+Bora;💻+Bioinformatics+%7C+Developer+;🚀+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=6CE0F7&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Furkan+Emre+Bora;💻+Bioinformatics+Developer;🚀+Welcome+to+my+GitHub+Profile!" 
+    alt="Typing animation showing Furkan Emre Bora's intro" 
+  />
 </h1>
 
 
@@ -48,12 +51,10 @@ I'm passionate about recent developments in bioinformatics and improving my skil
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Femrebora&theme=gotham&hide_border=true" />
-</p>
-
+  <img src="http://github-profile-summar
 ---
 
 ## 🧠 My Goals
