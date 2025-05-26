@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=1000&color=6CE0F7&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Furkan+Emre+Bora;💻+Bioinformatics+Developer;🚀+Welcome+to+my+GitHub+Profile!)
 
 
----
+
 
 **Bioinformatics | Developer**
 
