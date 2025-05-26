@@ -1,15 +1,13 @@
 <!-- README.md -->
 
-<h1 align="center" style="font-size: 3em; font-weight: bold;">👋 Hi, I'm Furkan Emre Bora</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=6CE0F7&center=true&vCenter=true&width=600&lines=Bioinformatics+%7C+Developer+%7C+Curious+Mind;Always+learning+new+things...;Welcome+to+my+GitHub+profile!+%F0%9F%8C%90" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=6CE0F7&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Furkan+Emre+Bora;💻+Bioinformatics+%7C+Developer+;🚀+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
 
 ---
 
-**Bioinformatics | Developer | Computational Biology Enthusiast**
+**Bioinformatics | Developer**
 
 I'm passionate about recent developments in bioinformatics and improving my skills in interpreting, analyzing, and developing biological data tools. My expertise lies at the intersection of computational biology, data analysis, and software development.
 
@@ -58,12 +56,12 @@ I'm passionate about recent developments in bioinformatics and improving my skil
 
 ---
 
-## 🧠 Fun Facts
+## 🧠 My Goals
 
-- 🔬 I’m currently working on CRISPR-based GBM screening  
-- 🌱 I’m learning machine learning for genomics  
+- 🔬 I’m currently working on CRISPR-base screening  
+- 🌱 I’m learning machine learning   
 - 💡 I love combining biology with software  
-- 🎯 2025 Goals: Finish my thesis, publish a bioinformatics tools, contribute to open-source  
+- 🎯 2025 Goals: publish a bioinformatics tools, contribute to open-source  
 
 ---
 
