@@ -1,13 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=1000&color=6CE0F7&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Furkan+Emre+Bora;💻+Bioinformatics+Developer;🚀+Welcome+to+my+GitHub+Profile!)
 
 
-
-
 **Bioinformatics | Developer**
 
 I'm passionate about recent developments in bioinformatics and improving my skills in interpreting, analyzing, and developing biological data tools. My expertise lies at the intersection of computational biology, data analysis, and software development.
 
----
 
 ## 🛠️ Languages and Tools
 
@@ -24,7 +21,6 @@ I'm passionate about recent developments in bioinformatics and improving my skil
   <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
----
 
 ## 🎓 Education
 
