@@ -39,6 +39,13 @@ I'm passionate about recent developments in bioinformatics and improving my skil
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Femrebora&theme=gotham" alt="GitHub Stats Details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Femrebora&theme=gotham" alt="GitHub Overall Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Femrebora&theme=gotham" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Femrebora/Femrebora/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
