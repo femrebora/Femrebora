@@ -36,11 +36,6 @@ I'm passionate about recent developments in bioinformatics and improving my skil
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Femrebora&theme=gotham" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 
 
