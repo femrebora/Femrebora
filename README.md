@@ -1,19 +1,5 @@
-<!-- README.md -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=6CE0F7&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Furkan+Emre+Bora;💻+Bioinformatics+Developer;🚀+Welcome+to+my+GitHub+Profile!)
 
-<h1 align="center">
-  <a href="https://github.com/Femrebora" target="_blank">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=6CE0F7&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Furkan+Emre+Bora;💻+Bioinformatics+Developer;🚀+Welcome+to+my+GitHub+Profile!" 
-      alt="Typing animation showing Furkan Emre Bora's intro"
-    />
-  </a>
-</h1>
-
-<p align="center">
-  <a href="https://github.com/Femrebora">
-    <img alt="Furkan Emre Bora" src="https://img.shields.io/badge/-Furkan%20Emre%20Bora-6CE0F7?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=6CE0F7">
-  </a>
-</p>
 
 ---
 
