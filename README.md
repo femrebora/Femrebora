@@ -39,14 +39,14 @@ I'm passionate about recent developments in bioinformatics and improving my skil
 </p>
 
 
-
-
 ## 🧠 My Goals
 
 - 🔬 I’m currently working on CRISPR-based screening  
 - 🌱 I’m learning machine learning  
 - 💡 I love combining biology with software  
-- 🎯 2025 Goals: publish a bioinformatics tool, contribute to open-source  
+- 🎯 2025 Goals: publish a bioinformatics tool, contribute to open-source
+
+![snake gif](https://github.com/femrebora/femrebora/blob/output/github-snake-dark.svg) 
 
 
 
