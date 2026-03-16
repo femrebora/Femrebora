@@ -167,6 +167,22 @@ Pipeline Dev          ████████████████░░░�
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| [🧬 lncRNA-Analysis](https://github.com/Cingoz-Lab/lncRNA-Analysis) | End-to-end RNA-seq downstream analysis pipeline for identifying key lncRNAs. DESeq2 results → QC plots, volcano, GSEA Hallmark enrichment. Built in R. |
+
+<a href="https://github.com/Cingoz-Lab/lncRNA-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cingoz-Lab&repo=lncRNA-Analysis&theme=gotham&show_owner=true"/>
+</a>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -195,3 +211,4 @@ Pipeline Dev          ████████████████░░░�
 *"In biology, nothing makes sense except in the light of evolution — and increasingly, in the light of computation."*
 
 </div>
+
