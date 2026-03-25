@@ -194,13 +194,6 @@ Pipeline Dev          ████████████████░░░�
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Femrebora&theme=gotham&hide_border=true" width="60%"/>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Femrebora&theme=onestar&no-frame=true&row=1&column=6"/>
-</div>
 
 ---
 
