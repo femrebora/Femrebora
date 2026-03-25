@@ -19,7 +19,7 @@
 - 🤖 Learning **ML for genomics** 
 - 🛠 Building reproducible pipelines with **Nextflow & Snakemake**
 - 💡 Passionate about turning raw biological data into actionable insights
-- 🎯 Goal: publish an open-source bioinformatics tool in 2025–2026
+- 🎯 Goal: publish an open-source bioinformatics tools 
 - 🌍 Based in **Istanbul, Turkey**
 
 <br clear="right"/>
