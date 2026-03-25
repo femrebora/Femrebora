@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="white"/>
+
+  <style>
+    /* Each dot gets a keyframe that moves it up and down like a sine wave */
+    /* Strand 1 - starts at top of wave */
+    @keyframes s1d0  { 0%,100%{cy:158px;r:9px;opacity:1}  50%{cy:242px;r:5px;opacity:0.45} }
+    @keyframes s1d1  { 0%,100%{cy:168px;r:8px;opacity:0.85} 50%{cy:232px;r:5px;opacity:0.5} }
+    @keyframes s1d2  { 0%,100%{cy:185px;r:7px;opacity:0.7} 50%{cy:215px;r:5px;opacity:0.55} }
+    @keyframes s1d3  { 0%,100%{cy:200px;r:6px;opacity:0.6} 50%{cy:200px;r:6px;opacity:0.6} }
+    @keyframes s1d4  { 0%,100%{cy:215px;r:7px;opacity:0.7} 50%{cy:185px;r:5px;opacity:0.55} }
+    @keyframes s1d5  { 0%,100%{cy:232px;r:8px;opacity:0.85} 50%{cy:168px;r:5px;opacity:0.5} }
+    @keyframes s1d6  { 0%,100%{cy:242px;r:9px;opacity:1}  50%{cy:158px;r:5px;opacity:0.45} }
+    @keyframes s1d7  { 0%,100%{cy:232px;r:8px;opacity:0.85} 50%{cy:168px;r:5px;opacity:0.5} }
+    @keyframes s1d8  { 0%,100%{cy:215px;r:7px;opacity:0.7} 50%{cy:185px;r:5px;opacity:0.55} }
+    @keyframes s1d9  { 0%,100%{cy:200px;r:6px;opacity:0.6} 50%{cy:200px;r:6px;opacity:0.6} }
+    @keyframes s1d10 { 0%,100%{cy:185px;r:7px;opacity:0.7} 50%{cy:215px;r:5px;opacity:0.55} }
+    @keyframes s1d11 { 0%,100%{cy:168px;r:8px;opacity:0.85} 50%{cy:232px;r:5px;opacity:0.5} }
+    @keyframes s1d12 { 0%,100%{cy:158px;r:9px;opacity:1}  50%{cy:242px;r:5px;opacity:0.45} }
+
+    /* Strand 2 - opposite phase */
+    @keyframes s2d0  { 0%,100%{cy:242px;r:5px;opacity:0.45} 50%{cy:158px;r:9px;opacity:1}  }
+    @keyframes s2d1  { 0%,100%{cy:232px;r:5px;opacity:0.5}  50%{cy:168px;r:8px;opacity:0.85} }
+    @keyframes s2d2  { 0%,100%{cy:215px;r:5px;opacity:0.55} 50%{cy:185px;r:7px;opacity:0.7} }
+    @keyframes s2d3  { 0%,100%{cy:200px;r:6px;opacity:0.6}  50%{cy:200px;r:6px;opacity:0.6} }
+    @keyframes s2d4  { 0%,100%{cy:185px;r:5px;opacity:0.55} 50%{cy:215px;r:7px;opacity:0.7} }
+    @keyframes s2d5  { 0%,100%{cy:168px;r:5px;opacity:0.5}  50%{cy:232px;r:8px;opacity:0.85} }
+    @keyframes s2d6  { 0%,100%{cy:158px;r:5px;opacity:0.45} 50%{cy:242px;r:9px;opacity:1}  }
+    @keyframes s2d7  { 0%,100%{cy:168px;r:5px;opacity:0.5}  50%{cy:232px;r:8px;opacity:0.85} }
+    @keyframes s2d8  { 0%,100%{cy:185px;r:5px;opacity:0.55} 50%{cy:215px;r:7px;opacity:0.7} }
+    @keyframes s2d9  { 0%,100%{cy:200px;r:6px;opacity:0.6}  50%{cy:200px;r:6px;opacity:0.6} }
+    @keyframes s2d10 { 0%,100%{cy:215px;r:5px;opacity:0.55} 50%{cy:185px;r:7px;opacity:0.7} }
+    @keyframes s2d11 { 0%,100%{cy:232px;r:5px;opacity:0.5}  50%{cy:168px;r:8px;opacity:0.85} }
+    @keyframes s2d12 { 0%,100%{cy:242px;r:5px;opacity:0.45} 50%{cy:158px;r:9px;opacity:1}  }
+
+    .dur { animation-duration: 2.4s; animation-timing-function: ease-in-out; animation-iteration-count: infinite; }
+
+    /* Staggered delays across 13 dots spanning full 2.4s period */
+    .d0  { animation-delay: 0s }
+    .d1  { animation-delay: -0.2s }
+    .d2  { animation-delay: -0.4s }
+    .d3  { animation-delay: -0.6s }
+    .d4  { animation-delay: -0.8s }
+    .d5  { animation-delay: -1.0s }
+    .d6  { animation-delay: -1.2s }
+    .d7  { animation-delay: -1.4s }
+    .d8  { animation-delay: -1.6s }
+    .d9  { animation-delay: -1.8s }
+    .d10 { animation-delay: -2.0s }
+    .d11 { animation-delay: -2.2s }
+    .d12 { animation-delay: -2.4s }
+
+    /* Strand 1 dot animations */
+    .s1d0  { animation-name: s1d0;  } .s1d1  { animation-name: s1d1;  } .s1d2  { animation-name: s1d2;  }
+    .s1d3  { animation-name: s1d3;  } .s1d4  { animation-name: s1d4;  } .s1d5  { animation-name: s1d5;  }
+    .s1d6  { animation-name: s1d6;  } .s1d7  { animation-name: s1d7;  } .s1d8  { animation-name: s1d8;  }
+    .s1d9  { animation-name: s1d9;  } .s1d10 { animation-name: s1d10; } .s1d11 { animation-name: s1d11; }
+    .s1d12 { animation-name: s1d12; }
+
+    /* Strand 2 dot animations */
+    .s2d0  { animation-name: s2d0;  } .s2d1  { animation-name: s2d1;  } .s2d2  { animation-name: s2d2;  }
+    .s2d3  { animation-name: s2d3;  } .s2d4  { animation-name: s2d4;  } .s2d5  { animation-name: s2d5;  }
+    .s2d6  { animation-name: s2d6;  } .s2d7  { animation-name: s2d7;  } .s2d8  { animation-name: s2d8;  }
+    .s2d9  { animation-name: s2d9;  } .s2d10 { animation-name: s2d10; } .s2d11 { animation-name: s2d11; }
+    .s2d12 { animation-name: s2d12; }
+  </style>
+
+  <!-- X positions: 155 to 445 in steps of ~24px for 13 dots -->
+  <!-- Strand 1 — pink/mauve tones -->
+  <circle class="dur d0  s1d0"  cx="155" cy="158" r="9"  fill="#c96a7e"/>
+  <circle class="dur d1  s1d1"  cx="179" cy="168" r="8"  fill="#5bacd4"/>
+  <circle class="dur d2  s1d2"  cx="203" cy="185" r="7"  fill="#d4849a"/>
+  <circle class="dur d3  s1d3"  cx="227" cy="200" r="6"  fill="#7cc0dc"/>
+  <circle class="dur d4  s1d4"  cx="251" cy="215" r="7"  fill="#c06070"/>
+  <circle class="dur d5  s1d5"  cx="275" cy="232" r="8"  fill="#a8d4e8"/>
+  <circle class="dur d6  s1d6"  cx="300" cy="242" r="9"  fill="#c96a7e"/>
+  <circle class="dur d7  s1d7"  cx="325" cy="232" r="8"  fill="#5bacd4"/>
+  <circle class="dur d8  s1d8"  cx="349" cy="215" r="7"  fill="#e0b0bc"/>
+  <circle class="dur d9  s1d9"  cx="373" cy="200" r="6"  fill="#3a8ab0"/>
+  <circle class="dur d10 s1d10" cx="397" cy="185" r="7"  fill="#d4849a"/>
+  <circle class="dur d11 s1d11" cx="421" cy="168" r="8"  fill="#7cc0dc"/>
+  <circle class="dur d12 s1d12" cx="445" cy="158" r="9"  fill="#a84060"/>
+
+  <!-- Strand 2 — blue tones, opposite phase -->
+  <circle class="dur d0  s2d0"  cx="155" cy="242" r="5"  fill="#5bacd4"/>
+  <circle class="dur d1  s2d1"  cx="179" cy="232" r="5"  fill="#c96a7e"/>
+  <circle class="dur d2  s2d2"  cx="203" cy="215" r="5"  fill="#a8d4e8"/>
+  <circle class="dur d3  s2d3"  cx="227" cy="200" r="6"  fill="#d4849a"/>
+  <circle class="dur d4  s2d4"  cx="251" cy="185" r="5"  fill="#3a8ab0"/>
+  <circle class="dur d5  s2d5"  cx="275" cy="168" r="5"  fill="#c06070"/>
+  <circle class="dur d6  s2d6"  cx="300" cy="158" r="5"  fill="#7cc0dc"/>
+  <circle class="dur d7  s2d7"  cx="325" cy="168" r="5"  fill="#e0b0bc"/>
+  <circle class="dur d8  s2d8"  cx="349" cy="185" r="5"  fill="#5bacd4"/>
+  <circle class="dur d9  s2d9"  cx="373" cy="200" r="6"  fill="#c96a7e"/>
+  <circle class="dur d10 s2d10" cx="397" cy="215" r="5"  fill="#a8d4e8"/>
+  <circle class="dur d11 s2d11" cx="421" cy="232" r="5"  fill="#a84060"/>
+  <circle class="dur d12 s2d12" cx="445" cy="242" r="5"  fill="#2a6888"/>
+</svg>
