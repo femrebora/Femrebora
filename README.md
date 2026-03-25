@@ -3,9 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=6CE0F7&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Furkan+Emre+Bora;🧬+Bioinformatician+%26+Developer;🔬+CRISPR+%7C+NGS+%7C+Single-Cell+%7C+ML;😺+Welcome+to+my+GitHub!)
 
 <br/>
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:furkanemrebora@email.com)
-[![GitHub followers](https://img.shields.io/github/followers/Femrebora?style=flat-square&color=6CE0F7&labelColor=0d1117)](https://github.com/Femrebora)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:furkanemrebora@email.com) [![GitHub followers](https://img.shields.io/github/followers/Femrebora?style=flat-square&color=6CE0F7&labelColor=0d1117)](https://github.com/Femrebora) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
 
 </div>
 
