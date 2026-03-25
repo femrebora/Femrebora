@@ -12,13 +12,13 @@
 
 ---
 
-<img align="right" alt="DNA animation" width="280" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+<img align="right" alt="DNA animation" width="280" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/dna.svg" />
 
 ### 🧬 About Me
 
 - 🎓 M.Sc. Biotechnology student @ **Bezmialem Vakıf University**
 - 🔬 Currently working on **CRISPR-based functional screening**
-- 🤖 Learning **ML for genomics** — sequence models, CNNs, transformers
+- 🤖 Learning **ML for genomics** 
 - 🛠 Building reproducible pipelines with **Nextflow & Snakemake**
 - 💡 Passionate about turning raw biological data into actionable insights
 - 🎯 Goal: publish an open-source bioinformatics tool in 2025–2026
@@ -46,7 +46,6 @@ Pipeline Dev          ████████████████░░░�
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
