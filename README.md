@@ -208,7 +208,5 @@ Pipeline Dev          ████████████████░░░�
 
 ![snake gif](https://github.com/femrebora/femrebora/blob/output/github-snake-dark.svg)
 
-*"In biology, nothing makes sense except in the light of evolution — and increasingly, in the light of computation."*
-
 </div>
 
