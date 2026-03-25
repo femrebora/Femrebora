@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="DNA animation" width="280" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/dna.svg" />
+<img align="right" alt="DNA animation" width="280" src="https://raw.github.com/femrebora/Femrebora/main/.github/workflows/animation/dna.svg" />
 
 ### 🧬 About Me
 
