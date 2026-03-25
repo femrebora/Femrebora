@@ -164,7 +164,6 @@ Pipeline Dev          ████████████████░░░�
 
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -174,11 +173,7 @@ Pipeline Dev          ████████████████░░░�
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Femrebora&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Femrebora&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6" width="100%"/>
-
 </div>
-
-
 ---
 
 <div align="center">
