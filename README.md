@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:furkanemrebora@email.com) [![GitHub followers](https://img.shields.io/github/followers/Femrebora?style=flat-square&color=6CE0F7&labelColor=0d1117)](https://github.com/Femrebora) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:furkanemrebora@email.com) [![GitHub followers](https://img.shields.io/github/followers/Femrebora?style=flat-square&color=6CE0F7&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/Femrebora) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
 
