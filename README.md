@@ -170,7 +170,7 @@ Pipeline Dev          ████████████████░░░�
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Femrebora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Femrebora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Femrebora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Femrebora&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
 
