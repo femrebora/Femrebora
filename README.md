@@ -166,6 +166,21 @@ Pipeline Dev          ████████████████░░░�
 ---
 ## 📊 GitHub Stats
 
+## :octocat: My Github stats 📊
+
+<p align="center">
+
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/maxulysse?cardType=github&theme=github&preferLogin=true">
+    <img alt="My Awesome Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/maxulysse?cardType=github&theme=github&preferLogin=true">
+  </picture>
+</h1>
+
+[git.io/awesome-stats-card](https://git.io/awesome-stats-card)
+
+</p>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Femrebora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" width="49%"/>
