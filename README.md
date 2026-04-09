@@ -164,8 +164,6 @@ Pipeline Dev          ████████████████░░░�
 
 
 ---
-## 📊 GitHub Stats
-
 ## :octocat: My Github stats 📊
 
 <p align="center">
